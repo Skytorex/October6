@@ -1,0 +1,32 @@
+.display{
+	display: flex;
+}
+body{
+	font-family: arial;
+}
+.center{
+	width:1200px;
+	margin-left: auto;
+	margin-right: auto;	
+}
+.back{
+	background-color: #00b7a2;
+}
+.back2{
+	background-color: white;
+}
+.hie{
+	height: 750px;
+}
+.top{
+	margin-top: 70px;
+}
+p{
+	color: gray;
+	padding-top: 20px;
+}
+h1{
+	color: white;
+	padding-left: 30px;
+	padding-top: 30px;
+}
